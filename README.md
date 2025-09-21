@@ -1,0 +1,4 @@
+Phyton ile yazılmış bir kod
+Telefon usb ile bağlı olması ve Geliştirici Seçenekleri → USB Hata Ayıklama (USB debugging) açık olması gerekiyor
+adb yüklü olması
+Windows için Tesseract OCR programınında yüklü olması gerekiyor (https://github.com/UB-Mannheim/tesseract/wiki)
